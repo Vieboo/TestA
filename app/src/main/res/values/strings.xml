@@ -1,0 +1,13 @@
+<!DOCTYPE resources [
+    <!ENTITY telephone "10086">
+    <!ENTITY user_name "日天">
+    ]>
+<resources>
+    <string name="app_name">TestA</string>
+
+    <string name="str_phone">联系电话：&telephone;</string>
+    <string name="str_service">24小时客服：&user_name;</string>
+    <string name="str_contact">有疑问请联系&user_name;</string>
+
+    <string name="str_dian">&#8230;</string>
+</resources>
